@@ -1,0 +1,8 @@
+
+data/train.csv
+data/test.csv
+data/rand_data.csv
+data/original/wave_2_classes_with_irrelevant_attributes.train.arff
+data/original/wave_2_classes_with_irrelevant_attributes.test.arff
+data/original/wave_2_classes_with_irrelevant_attributes.arff
+report/R26094022_李權恩_期中報告.pdf
